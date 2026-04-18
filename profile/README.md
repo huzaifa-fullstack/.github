@@ -23,118 +23,188 @@ Welcome to my full-stack development showcase! This organization represents my j
 ## 🛠️ Technologies & Full-Stack Arsenal
 
 <h3 align="left">Frontend Frameworks:</h3>
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Styling & UI Systems:</h3>
-<p align="left">
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN UI" width="40" height="40"/>
-  </a>
-  <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
-  </a>
-  <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
-    <img src="https://lottiefiles.com/favicon.ico" alt="Lottie" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+        <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="ShadCN UI" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.radix-ui.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
+        <img src="https://lottiefiles.com/favicon.ico" alt="Lottie" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Backend & API Technologies:</h3>
-<p align="left">
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Database & Cloud Storage:</h3>
-<p align="left">
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-<a href="https://puter.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-1.webcatalog.io/catalog/puter/puter-icon-filled-256.png?v=1714776701295" alt="Puter Cloud" width="40" height="40"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://puter.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn-1.webcatalog.io/catalog/puter/puter-icon-filled-256.png?v=1714776701295" alt="Puter Cloud" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">AI & Machine Learning:</h3>
-<p align="left">
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="40" height="40"/>
-  </a>
-  <a href="https://elevenlabs.io/" target="_blank" rel="noreferrer">
-    <img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/a2ea339b-8b5e-41bb-b706-24eda8a4c9e3/elevenlabs-symbol.svg" alt="ElevenLabs" width="40" height="40"/>
-  </a>
-  <a href="https://deepgram.com/" target="_blank" rel="noreferrer">
-    <img src="https://deepgram.com/favicon.ico" alt="Deepgram" width="40" height="40"/>
-  </a>
-  <a href="https://vapi.ai/" target="_blank" rel="noreferrer">
-    <img src="https://vapi.ai/favicon.ico" alt="Vapi AI" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://openai.com/" target="_blank" rel="noreferrer">
+        <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" alt="OpenAI" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://elevenlabs.io/" target="_blank" rel="noreferrer">
+        <img src="https://11labs-nonprd-15f22c1d.s3.eu-west-3.amazonaws.com/a2ea339b-8b5e-41bb-b706-24eda8a4c9e3/elevenlabs-symbol.svg" alt="ElevenLabs" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://deepgram.com/" target="_blank" rel="noreferrer">
+        <img src="https://deepgram.com/favicon.ico" alt="Deepgram" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://vapi.ai/" target="_blank" rel="noreferrer">
+        <img src="https://vapi.ai/favicon.ico" alt="Vapi AI" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Authentication & Security:</h3>
-<p align="left">
-  <a href="https://clerk.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" alt="Clerk" width="40" height="40"/>
-  </a>
-  <a href="https://zod.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://clerk.com/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/49538330?s=200&v=4" alt="Clerk" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://zod.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" alt="Zod" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Form Handling & Validation:</h3>
-<p align="left">
-  <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
-    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="40" height="40"/>
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/45790596?s=200&v=4" alt="Zustand" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://react-hook-form.com/" target="_blank" rel="noreferrer">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="React Hook Form" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/45790596?s=200&v=4" alt="Zustand" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Development & Deployment:</h3>
-<p align="left">
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" />
-  </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://sentry.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" alt="Sentry" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://sentry.io/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/1396951?s=200&v=4" alt="Sentry" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">File Processing & APIs:</h3>
-<p align="left">
-  <a href="https://mozilla.github.io/pdf.js/" target="_blank" rel="noreferrer">
-    <img src="https://mozilla.github.io/pdf.js/images/logo.svg" alt="PDF.js" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <a href="https://mozilla.github.io/pdf.js/" target="_blank" rel="noreferrer">
+        <img src="https://mozilla.github.io/pdf.js/images/logo.svg" alt="PDF.js" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
