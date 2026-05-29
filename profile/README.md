@@ -71,11 +71,11 @@ Welcome to my full-stack development showcase! This organization represents my j
         <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <!-- <td align="center" width="60">
       <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
         <img src="https://lottiefiles.com/favicon.ico" alt="Lottie" width="40" height="40"/>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
