@@ -305,7 +305,7 @@ I'm passionate about full-stack development and always eager to:
 [![⚡ Full Stack](https://img.shields.io/badge/⚡_Full_Stack-huzaifa--fullstack-green?style=for-the-badge)](https://github.com/huzaifa-fullstack)
 [![🎨 Frontend](https://img.shields.io/badge/🎨_Frontend-huzaifa--frontend-blue?style=for-the-badge)](https://github.com/huzaifa-frontend)
 [![🎮 Game Dev](https://img.shields.io/badge/🎮_Game_Dev-huzaifa--gamedev-orange?style=for-the-badge)](https://github.com/huzaifa-gamedev)
-[![📚 Resources](https://img.shields.io/badge/📚_Vault-huzaifa--vault-purple?style=for-the-badge)](https://github.com/huzaifa-vault)
+[![🧠 AI & ML](https://img.shields.io/badge/🧠_AI_&_ML-huzaifa--ai--ml-purple?style=for-the-badge)](https://github.com/huzaifa-ai-ml)
 
 ---
 
